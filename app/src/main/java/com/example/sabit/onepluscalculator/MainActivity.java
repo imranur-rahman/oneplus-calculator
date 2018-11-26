@@ -47,77 +47,66 @@ public class MainActivity extends AppCompatActivity {
         button0.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                //expressionText.setText(expressionText.getText()+"0");
                 updateText("0");
             }
         });
         button1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                //expressionText.setText(expressionText.getText()+"1");
                 updateText("1");
             }
         });
         button2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                //expressionText.setText(expressionText.getText()+"2");
                 updateText("2");
             }
         });
         button3.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                //expressionText.setText(expressionText.getText()+"3");
                 updateText("3");
             }
         });
         button4.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                //expressionText.setText(expressionText.getText()+"4");
                 updateText("4");
             }
         });
         button5.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                //expressionText.setText(expressionText.getText()+"5");
                 updateText("5");
             }
         });
         button6.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                //expressionText.setText(expressionText.getText()+"6");
                 updateText("6");
             }
         });
         button7.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                //expressionText.setText(expressionText.getText()+"7");
                 updateText("7");
             }
         });
         button8.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                //expressionText.setText(expressionText.getText()+"8");
                 updateText("8");
             }
         });
         button9.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                //expressionText.setText(expressionText.getText()+"9");
                 updateText("9");
             }
         });
         buttonDot.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                //expressionText.setText(expressionText.getText()+".");
                 updateText(".");
             }
         });
